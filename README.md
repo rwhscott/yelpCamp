@@ -6,4 +6,4 @@ Utilises [Express](https://expressjs.com) web framework and [EJS](https://ejs.co
 
 Initially built as part of [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) on Udemy.com, and gradually being extended and customised since then.
 
-Deployed version at [yelpCamp.rob.scot](http://yelpcamp.rob.scot).
+Deployed version at [http://yelpcamp.rob.scot](http://yelpcamp.rob.scot).
