@@ -32,7 +32,7 @@ app.set("view engine", "ejs");
 // Seed DB with starter data
 const today = new Date();
 let day = today.getDay();
-if (day === 5) {
+if (day === 6) {
 	seedDB();
 }
 
