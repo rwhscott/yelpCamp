@@ -30,7 +30,11 @@ app.locals.moment = require("moment"),
 app.set("view engine", "ejs");
 
 // Seed DB with starter data
-//seedDB();
+const today = new Date();
+let day = today.getDay();
+if (day === 5) {
+	seedDB();
+}
 
 
 // Passport configuration
